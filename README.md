@@ -73,6 +73,8 @@ Meu nome é **Humphry Torres** e atuo na área de **Ciência de Dados**, com esp
   </a>
 
 </div>
+<br />
+<br />
 
 ## 📊 Stats
 
@@ -101,13 +103,6 @@ Meu nome é **Humphry Torres** e atuo na área de **Ciência de Dados**, com esp
   <img src="https://github-readme-stats.vercel.app/api?username=ht-yarll&show_icons=true" />
 </picture>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
