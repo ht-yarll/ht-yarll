@@ -59,7 +59,7 @@
   <a href="https://github.com/ht-yarll/financial_data_scrapper" style="text-decoration: none; outline: none; border: none; width: 30%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
-      style="width: 100%; height: auto; display: block;" 
+      style="width: 33%; height: auto; display: block;" 
       alt="financial_data_scrapper"
     />
   </a>
@@ -67,7 +67,7 @@
   <a href="https://github.com/ht-yarll/poetry_reader" style="text-decoration: none; outline: none; border: none; width: 30%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
-      style="width: 100%; height: auto; display: block;" 
+      style="width: 33%; height: auto; display: block;" 
       alt="poetry_reader"
     />
   </a>
@@ -75,7 +75,7 @@
   <a href="https://github.com/ht-yarll/churn_telco" style="text-decoration: none; outline: none; border: none; width: 30%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
-      style="width: 100%; height: auto; display: block;" 
+      style="width: 33%; height: auto; display: block;" 
       alt="churn_telco"
     />
   </a>
