@@ -54,18 +54,33 @@
 </p>
 
 ## 🌟 Destaques de Projetos
-<p align="center">
-  <a href="https://github.com/ht-yarll/financial_data_scrapper" style="display:inline-block; width: 32%; min-width: 250px; margin: 0.5%; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" style="width: 100%;" />
-  </a>
-  <a href="https://github.com/ht-yarll/poetry_reader" style="display:inline-block; width: 32%; min-width: 250px; margin: 0.5%; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" style="width: 100%;" />
-  </a>
-  <a href="https://github.com/ht-yarll/churn_telco" style="display:inline-block; width: 32%; min-width: 250px; margin: 0.5%; vertical-align: top;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" style="width: 100%;" />
-  </a>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+  <a href="https://github.com/ht-yarll/financial_data_scrapper" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
+      width="300" 
+      alt="financial_data_scrapper"
+    />
+  </a>
+
+  <a href="https://github.com/ht-yarll/poetry_reader" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
+      width="300" 
+      alt="poetry_reader"
+    />
+  </a>
+
+  <a href="https://github.com/ht-yarll/churn_telco" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
+      width="300" 
+      alt="churn_telco"
+    />
+  </a>
+
+</div>
 
 
 
