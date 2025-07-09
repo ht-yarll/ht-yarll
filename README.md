@@ -5,13 +5,14 @@
 *   ✉️  Pode entrar em contato comigo pelo email [htorres5@outlook.com](mailto:htorres5@outlook.com)
 *   🧠  No momento estou estudando **Terraform**
 *   🤝  Estou disponível para colaborar com projetos que estejam dentro do escopo de **Ciência de Dados** mais especificamente na área de **Engenharia**
+*   🌱  *Keep learing, keep growing*
 
 <div>
 <img src="https://img.shields.io/github/followers/ht-yarll?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ht-yarll?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000&color=green">
 </div>
 
-<hr style="height: 3px; background-color: grey; border: none;" />
+<hr style="height: 3px; background-color: #DA70D6; border: none;" />
 
 <h2> 🧬 Languages and Tools: </h2>
 <p align="left">
@@ -32,8 +33,7 @@
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="36" height="36" alt="Apache Airflow" title="Apache Airflow"/></a>
 <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" title="Terraform"/></a>
 </p>
-
-
+<br />
 
 ## 📊 Stats
 <p>
@@ -53,27 +53,19 @@
   </a>
 </p>
 
-## 🎖️ Destaques de Projetos
+## 🌟 Destaques de Projetos
+<p align="center">
+  <a href="https://github.com/ht-yarll/financial_data_scrapper" style="display:inline-block; width: 32%; min-width: 250px; margin: 0.5%; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/ht-yarll/poetry_reader" style="display:inline-block; width: 32%; min-width: 250px; margin: 0.5%; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" style="width: 100%;" />
+  </a>
+  <a href="https://github.com/ht-yarll/churn_telco" style="display:inline-block; width: 32%; min-width: 250px; margin: 0.5%; vertical-align: top;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" style="width: 100%;" />
+  </a>
+</p>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; margin:0; padding:0;">
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/ht-yarll/financial_data_scrapper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" width="100%" />
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/ht-yarll/poetry_reader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" width="100%" />
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/ht-yarll/churn_telco">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
