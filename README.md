@@ -1,17 +1,14 @@
-# 👺 Humphry Torres
+# <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Goblin.png?raw=true" width="35" /> **Humphry Torres**
 
-**`Data Science/Data Engineer`**
-
+**`Data Scientist/Data Engineer`**
 *   🌍  Sou brasileiro, morando atualmente no Rio de Janeiro 
 *   ✉️  Pode entrar em contato comigo pelo email [htorres5@outlook.com](mailto:htorres5@outlook.com)
 *   🧠  No momento estou estudando **Terraform**
 *   🤝  Estou disponível para colaborar com projetos que estejam dentro do escopo de **Ciência de Dados** mais especificamente na área de **Engenharia**
 
 <div>
- <a href="https://github.com/ht-yarll?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ht-yarll?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ht-yarll?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ht-yarll?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<img src="https://img.shields.io/github/followers/ht-yarll?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ht-yarll?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000&color=green">
 </div>
 
 <hr style="height: 3px; background-color: grey; border: none;" />
