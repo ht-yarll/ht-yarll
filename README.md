@@ -53,11 +53,29 @@
   </a>
 </p>
 
-## 🏅 Top Repos
-<div width="100%" align="center"><a href="https://github.com/ht-yarll/financial_data_scrapper" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ht-yarll/poetry_reader" align="right"><img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 📌 Destaques de Projetos
 
-<br /><br /><br /><br /><br />
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/ht-yarll/financial_data_scrapper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/ht-yarll/poetry_reader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/ht-yarll/churn_telco">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div width="100%" align="center"><a href="https://github.com/ht-yarll/churn_telco" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+
 
 
