@@ -54,33 +54,34 @@
 </p>
 
 ## 🌟 Destaques de Projetos
-<div style="display: flex; gap: 20px; width: 100%;">
+<div style="display: flex; gap: 20px; justify-content: center; width: 100%;">
 
-  <a href="https://github.com/ht-yarll/financial_data_scrapper" style="flex: 1; text-align: center; text-decoration: none; outline: none; border: none;">
+  <a href="https://github.com/ht-yarll/financial_data_scrapper" style="text-decoration: none; outline: none; border: none; width: 30%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=financial_data_scrapper&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
-      style="width: 100%; height: auto;" 
+      style="width: 100%; height: auto; display: block;" 
       alt="financial_data_scrapper"
     />
   </a>
 
-  <a href="https://github.com/ht-yarll/poetry_reader" style="flex: 1; text-align: center; text-decoration: none; outline: none; border: none;">
+  <a href="https://github.com/ht-yarll/poetry_reader" style="text-decoration: none; outline: none; border: none; width: 30%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=poetry_reader&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
-      style="width: 100%; height: auto;" 
+      style="width: 100%; height: auto; display: block;" 
       alt="poetry_reader"
     />
   </a>
 
-  <a href="https://github.com/ht-yarll/churn_telco" style="flex: 1; text-align: center; text-decoration: none; outline: none; border: none;">
+  <a href="https://github.com/ht-yarll/churn_telco" style="text-decoration: none; outline: none; border: none; width: 30%;">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=ht-yarll&repo=churn_telco&bg_color=000000&title_color=a855f7&text_color=ffffff&icon_color=0891b2&hide_border=true" 
-      style="width: 100%; height: auto;" 
+      style="width: 100%; height: auto; display: block;" 
       alt="churn_telco"
     />
   </a>
 
 </div>
+
 
 
 
