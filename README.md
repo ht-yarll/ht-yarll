@@ -87,7 +87,7 @@
 </div>
 
 ## 📊 Stats
-<div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 4px; flex-wrap: wrap; align-items: center;">
 <a href="http://www.github.com/ht-yarll"><img src="https://github-readme-stats.vercel.app/api?username=ht-yarll&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ht-yarll's GitHub stats" /></a>
 
 <a href="https://github.com/ht-yarll" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht-yarll&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
