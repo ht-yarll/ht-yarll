@@ -55,7 +55,7 @@
 
 ## 🎖️ Destaques de Projetos
 
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; margin:0; padding:0;">
   <tr>
     <td width="33%">
       <a href="https://github.com/ht-yarll/financial_data_scrapper">
