@@ -1,11 +1,12 @@
 # <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Goblin.png?raw=true" width="35" /> **Humphry Torres**
 
 **`Data Scientist/Data Engineer`**
-*   🌍  Sou brasileiro, morando atualmente no Rio de Janeiro 
-*   ✉️  Pode entrar em contato comigo pelo email [htorres5@outlook.com](mailto:htorres5@outlook.com)
-*   🧠  No momento estou estudando **Terraform**
-*   🤝  Estou disponível para colaborar com projetos que estejam dentro do escopo de **Ciência de Dados** mais especificamente na área de **Engenharia**
-*   🌱  *Keep learing, keep growing*
+* 🌍 Brazilian, based in **Rio de Janeiro**  
+* ✉️ Reach me at [htorres5@outlook.com](mailto:htorres5@outlook.com)
+* 🧠 Currently diving into **AI** and **Multi-Service Architecture**
+* 💼 Data Engineer at **Ambev**, also working with **DevOps**
+* 🌱  *Keep learing, keep growing*
+
 
 <div>
 <img src="https://img.shields.io/github/followers/ht-yarll?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
@@ -53,7 +54,7 @@
   </a>
 </p>
 
-## 🌟 Destaques de Projetos
+## 🌟 Featured Projects 
 <div style="display: flex; gap: 20px; justify-content: center; width: 100%;">
 
   <a href="https://github.com/ht-yarll/financial_data_scrapper" style="text-decoration: none; outline: none; border: none; width: 30%;">
