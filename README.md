@@ -17,32 +17,24 @@
 
 ## 🧬 Languages and Tools
 
-## 🧬 Languages and Tools
-
 ### 🏗️ Infrastructure & Tools
-<div align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" /></a>&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" /></a>&nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" height="40" alt="Azure DevOps" /></a>
-</div>
-
-<br />
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="20" align="absmiddle" /> **Git**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="20" align="absmiddle" /> **Bash**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="20" align="absmiddle" /> **Linux**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="20" align="absmiddle" /> **Docker**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="20" align="absmiddle" /> **Terraform**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="20" align="absmiddle" /> **Azure**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="20" align="absmiddle" /> **Azure DevOps**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="20" align="absmiddle" /> **Google Cloud Platform (GCP)**
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" align="absmiddle" /> **AWS**
 
 ### 🐍 Python & Data Engineering
-<div align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>&nbsp;&nbsp;
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Spark" /></a>&nbsp;&nbsp;
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" /></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /></a>&nbsp;&nbsp;
-  <a href="https://pola.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Polars" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgres" /></a>
-</div>
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20" align="absmiddle" /> **Python**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" height="20" align="absmiddle" /> **PySpark**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="20" align="absmiddle" /> **Apache Airflow**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="20" align="absmiddle" /> **FastAPI**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="20" align="absmiddle" /> **Polars**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20" align="absmiddle" /> **PostgreSQL**
 
 ## 📊 Stats
 <p>
